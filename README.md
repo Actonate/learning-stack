@@ -27,7 +27,7 @@ Below are list of curated resources recommend for each topic.
 - Crash Course - https://laracasts.com/series/es6-cliffsnotes
 - Book - http://exploringjs.com/es6/
 
-## React
+### React
 - Road to React - https://roadtoreact.com/
 - Recommended Course - https://reactforbeginners.com/
 - Alternate Course - Tyler Mcginnis - React Fundamentals (take copy from team/Shoaib)
