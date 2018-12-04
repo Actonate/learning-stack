@@ -1,6 +1,7 @@
 # Actonate Stack
 
 1. Basics of Web Development
+2. Data Structures in Javascript
 2. Javascript ES6 (with Babel)
 3. React 
 4. Node + Next.js
@@ -20,6 +21,12 @@ Below are list of curated resources recommend for each topic.
   https://www.theodinproject.com/courses
 - You can play this interactive game to get up to speed with Javascript - https://warriorjs.com/
 - Understand the ecosystem - http://jstherightway.org/
+
+### Data Structures in Javascript
+- This will help you think and program in Javascript
+- Algorithms in Javascript from Scratch (Beginner) - https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/
+- Data Structures in Javascript from Scratch (Intermediate) - https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/
+
 
 ### Javascript ES6 + Babel
 - Awesome (Curated) List - https://github.com/ericdouglas/ES6-Learning
