@@ -44,7 +44,7 @@ Below are list of curated resources recommend for each topic.
 - Game - https://flexboxfroggy.com/
 
 ### StyledComponents
-- Official website - https://www.youtube.com/watch?v=zVNrqo9XGOs&t=8s
+- Official website - https://www.styled-components.com/docs
 
 ### GraphQL
 - How to GraphQL - https://www.howtographql.com/
