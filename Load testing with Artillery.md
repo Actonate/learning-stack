@@ -1,6 +1,6 @@
 # Load Testing on a Website
 
-## Author: Neerali Chauhan, Shoaib Merchant
+### Author: Neerali Chauhan, Shoaib Merchant
 
 Load Testing is the process of subjecting a website or an application to high real-life load conditions. This testing helps to determine how the website will perform when multiple users access it simultaneously. We use [Artillery](https://artillery.io/) for load testing.
 
