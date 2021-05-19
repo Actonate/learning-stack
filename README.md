@@ -30,6 +30,7 @@ Below are list of curated resources recommend for each topic.
 
 ### Javascript ES6 + Babel
 - Learning ES6 - https://github.com/MarcoWorms/learn.js
+- Modern Javascript - https://javascript.info/
 - Awesome (Curated) List - https://github.com/ericdouglas/ES6-Learning
 - Introduction - https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582
 - Crash Course - https://laracasts.com/series/es6-cliffsnotes
