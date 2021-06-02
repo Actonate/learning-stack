@@ -35,6 +35,7 @@ Below are list of curated resources recommend for each topic.
 - Introduction - https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582
 - Crash Course - https://laracasts.com/series/es6-cliffsnotes
 - Book - http://exploringjs.com/es6/
+- Overall Guide https://wesbos.com/javascript
 
 ### React
 - Road to React - https://roadtoreact.com/
