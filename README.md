@@ -40,11 +40,11 @@ Below are list of curated resources recommend for each topic.
 ### React
 - Road to React - https://roadtoreact.com/
 - Recommended Course - https://reactforbeginners.com/
-- Alternate Course - Tyler Mcginnis - React Fundamentals (take copy from team/Shoaib)
+- Alternate Course - Tyler Mcginnis - React Fundamentals
 
 ### Nodejs + Nextjs
 - Understanding Nodejs (under the hood) - https://www.udemy.com/understand-nodejs/
-- Applications in Nodejs (parts of it can be referred, take copy from team/Shoaib) - https://www.udemy.com/the-complete-nodejs-developer-course-2/?couponCode=MEADNODE
+- Applications in Nodejs (parts of it can be referred) - https://www.udemy.com/the-complete-nodejs-developer-course-2/?couponCode=MEADNODE
 - Crash Course -  Nodeschool.io - https://nodeschool.io/#workshopper-list
 - Next.js Learn - https://nextjs.org/learn/
 
